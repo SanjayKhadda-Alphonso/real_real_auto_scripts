@@ -1,0 +1,226 @@
+resource exhausted...came here with index =  5  j =  1  i =  7
+date_from =  2020-01-14 00:00:00  today =  2020-01-16 00:00:00
+resource exhausted...came here with index =  6  j =  4  i =  22
+date_from =  2020-01-14 00:00:00  today =  2020-01-16 00:00:00 latest_date =  2020-01-15 00:00:00
+resource exhausted...came here with index =  5  j =  0  i =  4
+resource exhausted...came here with index =  5  j =  0  i =  5
+date_from =  2020-01-14 00:00:00  today =  2020-01-16 00:00:00 latest_date =  2020-01-15 00:00:00
+resource exhausted...came here with index =  4  j =  3  i =  19
+resource exhausted...came here with index =  5  j =  0  i =  2
+date_from =  2020-01-14 00:00:00  today =  2020-01-16 00:00:00 latest_date =  2020-01-15 00:00:00
+date_from =  2020-01-14 00:00:00  today =  2020-01-16 00:00:00 latest_date =  2020-01-16 00:00:00
+resource exhausted...came here with index =  4  j =  4  i =  24
+date_from =  2020-01-15 00:00:00  today =  2020-01-16 00:00:00 latest_date =  2020-01-16 00:00:00
+resource exhausted...came here with index =  5  j =  0  i =  5
+date_from =  2020-01-17 00:00:00  today =  2020-01-19 00:00:00 latest_date =  2020-01-18 00:00:00
+resource exhausted...came here with index =  5  j =  0  i =  2
+date_from =  2020-01-22 00:00:00  today =  2020-01-24 00:00:00 latest_date =  2020-01-23 00:00:00
+resource exhausted...came here with index =  4  j =  3  i =  20
+resource exhausted...came here with index =  5  j =  0  i =  3
+resource exhausted...came here with index =  5  j =  1  i =  9
+date_from =  2020-02-03 00:00:00  today =  2020-02-05 00:00:00 latest_date =  2020-02-03 00:00:00
+Empty DataFrame
+Columns: [Unnamed: 0, keys[partner], date, param_cust, count]
+Index: []
+Empty DataFrame
+Columns: [Unnamed: 0, keys[partner], keys[ad], date, count]
+Index: []
+Empty DataFrame
+Columns: [Unnamed: 0, keys[partner], keys[len], date, count]
+Index: []
+Empty DataFrame
+Columns: [Unnamed: 0, keys[partner], keys[provider], date, count]
+Index: []
+Empty DataFrame
+Columns: [Unnamed: 0, keys[partner], keys[network], date, count]
+Index: []
+Empty DataFrame
+Columns: [Unnamed: 0, keys[partner], date, param_cust, count]
+Index: []
+Empty DataFrame
+Columns: [Unnamed: 0, keys[partner], keys[ad], date, count]
+Index: []
+Empty DataFrame
+Columns: [Unnamed: 0, keys[partner], keys[len], date, count]
+Index: []
+Empty DataFrame
+Columns: [Unnamed: 0, keys[partner], keys[provider], date, count]
+Index: []
+Empty DataFrame
+Columns: [Unnamed: 0, keys[partner], keys[network], date, count]
+Index: []
+Empty DataFrame
+Columns: [Unnamed: 0, keys[partner], date, param_cust, count]
+Index: []
+Empty DataFrame
+Columns: [Unnamed: 0, keys[partner], keys[ad], date, count]
+Index: []
+Empty DataFrame
+Columns: [Unnamed: 0, keys[partner], keys[len], date, count]
+Index: []
+Empty DataFrame
+Columns: [Unnamed: 0, keys[partner], keys[provider], date, count]
+Index: []
+Empty DataFrame
+Columns: [Unnamed: 0, keys[partner], keys[network], date, count]
+Index: []
+Empty DataFrame
+Columns: [Unnamed: 0, keys[partner], date, param_cust, count]
+Index: []
+Empty DataFrame
+Columns: [Unnamed: 0, keys[partner], keys[ad], date, count]
+Index: []
+Empty DataFrame
+Columns: [Unnamed: 0, keys[partner], keys[len], date, count]
+Index: []
+Empty DataFrame
+Columns: [Unnamed: 0, keys[partner], keys[provider], date, count]
+Index: []
+Empty DataFrame
+Columns: [Unnamed: 0, keys[partner], keys[network], date, count]
+Index: []
+Empty DataFrame
+Columns: [Unnamed: 0, keys[partner], date, param_cust, count]
+Index: []
+Empty DataFrame
+Columns: [Unnamed: 0, keys[partner], keys[ad], date, count]
+Index: []
+Empty DataFrame
+Columns: [Unnamed: 0, keys[partner], keys[len], date, count]
+Index: []
+Empty DataFrame
+Columns: [Unnamed: 0, keys[partner], keys[provider], date, count]
+Index: []
+Empty DataFrame
+Columns: [Unnamed: 0, keys[partner], keys[network], date, count]
+Index: []
+Empty DataFrame
+Columns: [Unnamed: 0, keys[partner], date, param_cust, count]
+Index: []
+Empty DataFrame
+Columns: [Unnamed: 0, keys[partner], keys[ad], date, count]
+Index: []
+Empty DataFrame
+Columns: [Unnamed: 0, keys[partner], keys[len], date, count]
+Index: []
+Empty DataFrame
+Columns: [Unnamed: 0, keys[partner], keys[provider], date, count]
+Index: []
+Empty DataFrame
+Columns: [Unnamed: 0, keys[partner], keys[network], date, count]
+Index: []
+Empty DataFrame
+Columns: [Unnamed: 0, keys[partner], date, param_cust, count]
+Index: []
+Empty DataFrame
+Columns: [Unnamed: 0, keys[partner], keys[ad], date, count]
+Index: []
+Empty DataFrame
+Columns: [Unnamed: 0, keys[partner], keys[len], date, count]
+Index: []
+Empty DataFrame
+Columns: [Unnamed: 0, keys[partner], keys[provider], date, count]
+Index: []
+Empty DataFrame
+Columns: [Unnamed: 0, keys[partner], keys[network], date, count]
+Index: []
+Empty DataFrame
+Columns: [Unnamed: 0, keys[partner], date, param_cust, count]
+Index: []
+Empty DataFrame
+Columns: [Unnamed: 0, keys[partner], keys[ad], date, count]
+Index: []
+Empty DataFrame
+Columns: [Unnamed: 0, keys[partner], keys[len], date, count]
+Index: []
+Empty DataFrame
+Columns: [Unnamed: 0, keys[partner], keys[provider], date, count]
+Index: []
+Empty DataFrame
+Columns: [Unnamed: 0, keys[partner], keys[network], date, count]
+Index: []
+df =  [[Empty DataFrame
+Columns: [keys[partner], date, param_cust, count]
+Index: [], Empty DataFrame
+Columns: [keys[partner], keys[ad], date, count]
+Index: [], Empty DataFrame
+Columns: [keys[partner], keys[len], date, count]
+Index: [], Empty DataFrame
+Columns: [keys[partner], keys[provider], date, count]
+Index: [], Empty DataFrame
+Columns: [keys[partner], keys[network], date, count]
+Index: []], [Empty DataFrame
+Columns: [keys[partner], date, param_cust, count]
+Index: [], Empty DataFrame
+Columns: [keys[partner], keys[ad], date, count]
+Index: [], Empty DataFrame
+Columns: [keys[partner], keys[len], date, count]
+Index: [], Empty DataFrame
+Columns: [keys[partner], keys[provider], date, count]
+Index: [], Empty DataFrame
+Columns: [keys[partner], keys[network], date, count]
+Index: []], [Empty DataFrame
+Columns: [keys[partner], date, param_cust, count]
+Index: [], Empty DataFrame
+Columns: [keys[partner], keys[ad], date, count]
+Index: [], Empty DataFrame
+Columns: [keys[partner], keys[len], date, count]
+Index: [], Empty DataFrame
+Columns: [keys[partner], keys[provider], date, count]
+Index: [], Empty DataFrame
+Columns: [keys[partner], keys[network], date, count]
+Index: []], [Empty DataFrame
+Columns: [keys[partner], date, param_cust, count]
+Index: [], Empty DataFrame
+Columns: [keys[partner], keys[ad], date, count]
+Index: [], Empty DataFrame
+Columns: [keys[partner], keys[len], date, count]
+Index: [], Empty DataFrame
+Columns: [keys[partner], keys[provider], date, count]
+Index: [], Empty DataFrame
+Columns: [keys[partner], keys[network], date, count]
+Index: [], Empty DataFrame
+Columns: [keys[partner], keys[market], date, count]
+Index: []], [Empty DataFrame
+Columns: [keys[partner], date, param_cust, count]
+Index: [], Empty DataFrame
+Columns: [keys[partner], keys[ad], date, count]
+Index: [], Empty DataFrame
+Columns: [keys[partner], keys[len], date, count]
+Index: [], Empty DataFrame
+Columns: [keys[partner], keys[provider], date, count]
+Index: [], Empty DataFrame
+Columns: [keys[partner], keys[network], date, count]
+Index: []], [Empty DataFrame
+Columns: [keys[partner], date, param_cust, count]
+Index: [], Empty DataFrame
+Columns: [keys[partner], keys[ad], date, count]
+Index: [], Empty DataFrame
+Columns: [keys[partner], keys[len], date, count]
+Index: [], Empty DataFrame
+Columns: [keys[partner], keys[provider], date, count]
+Index: [], Empty DataFrame
+Columns: [keys[partner], keys[network], date, count]
+Index: [], Empty DataFrame
+Columns: [keys[partner], date, keys[devicetype], count]
+Index: []], [Empty DataFrame
+Columns: [keys[partner], date, param_cust, count]
+Index: [], Empty DataFrame
+Columns: [keys[partner], keys[ad], date, count]
+Index: [], Empty DataFrame
+Columns: [keys[partner], keys[len], date, count]
+Index: [], Empty DataFrame
+Columns: [keys[partner], keys[provider], date, count]
+Index: [], Empty DataFrame
+Columns: [keys[partner], keys[network], date, count]
+Index: []], [Empty DataFrame
+Columns: [keys[partner], date, param_cust, count]
+Index: [], Empty DataFrame
+Columns: [keys[partner], keys[ad], date, count]
+Index: [], Empty DataFrame
+Columns: [keys[partner], keys[len], date, count]
+Index: [], Empty DataFrame
+Columns: [keys[partner], keys[provider], date, count]
+Index: [], Empty DataFrame
+Columns: [keys[partner], keys[network], date, count]
+Index: []]]

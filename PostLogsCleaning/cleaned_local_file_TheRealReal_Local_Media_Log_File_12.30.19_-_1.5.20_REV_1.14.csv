@@ -1,0 +1,685 @@
+Date,Time,TimeZone,MarketCode,MarketName,Network,Station,ProgramAired,RealRealAdType,CreativeID,CreativeName,CreativeLength,Spend
+1/5/20,12:02 AM,Local,510,Cleveland,J!WKD,WOIO,WHEEL OF FORTUNE              ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/5/20,12:02 AM,Local,518,Greensboro-Winston-Salem-High,J!WKD,WFMY,THE OUTDOORSMAN WITH BUCK MCNE,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/5/20,12:08 AM,Local,609,St. Louis,J!WKD,KSDK,PAID PROGRAM                  ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/5/20,12:27 AM,Local,670,Ft. Smith,J!WKD,KFSM,JEOPARDY!                     ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,12:31 AM,Local,671,Tulsa,J!WKD,KTUL,JEOPARDY!                     ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,12:32 AM,Local,532,Albany-Schenectady-Troy,J!WKD,WTEN,JUDGE JUDY                    ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,12:36 AM,Local,673,"Columbus, GA",J!WKD,WRBL,MADAM SECRETARY               ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/5/20,12:40 AM,Local,625,Waco-Temple-Bryan,J!WKD,KCEN,ACCESS HOLLYWOOD              ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/3/20,12:55 AM,Local,718,"Jackson, MS",TMRON,WAPT,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/5/20,10:27 AM,Local,605,Topeka,J!WKD,KTKA,JEOPARDY!                     ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/3/20,10:48 AM,Local,616,Kansas City,TMRON,KMBC,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,10:48 AM,Local,881,Spokane,TMRON,KAYU,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,10:48 AM,Local,810,Yakima-Pasco-Richland-Kennewic,TMRON,KCYU,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,10:49 AM,Local,506,Boston,TMRON,WCVB,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,10:49 AM,Local,575,Chattanooga,TMRON,WTVC,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,10:49 AM,Local,565,Elmira,TMRON,WENY,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,10:49 AM,Local,516,Erie,TMRON,WJET,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,10:49 AM,Local,801,Eugene,TMRON,KLSR,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,10:49 AM,Local,649,Evansville,TMRON,WTVW,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,10:49 AM,Local,541,Lexington,TMRON,WDKY,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,10:49 AM,Local,828,Monterey-Salinas,TMRON,KSBW,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,10:49 AM,Local,501,New York,TMRON,WABC,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,10:49 AM,Local,504,Philadelphia,TMRON,WPVI,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,10:49 AM,Local,500,"Portland-Auburn, ME",TMRON,WMTW,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,10:49 AM,Local,560,Raleigh-Durham,TMRON,WTVD,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,10:49 AM,Local,548,West Palm Beach-Ft. Pierce-Ver,TMRON,WPBF,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,10:49 AM,Local,810,Yakima-Pasco-Richland-Kennewic,TMRON,KFFX,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,10:50 AM,Local,539,Tampa-St. Petersburg,TMRON,WMOR,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,11:48 AM,Local,754,Butte-Bozeman,TMRON,KWYB,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,11:48 AM,Local,755,Great Falls,TMRON,KFBB,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,11:48 AM,Local,762,Missoula,TMRON,KTMF,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,11:48 AM,Local,686,Mobile-Pensacola,TMRON,WPMI,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,11:48 AM,Local,862,Sacramento-Stockton,TMRON,KCRA,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,11:49 AM,Local,532,Albany-Schenectady-Troy,TMRON,WNYT,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,11:49 AM,Local,520,Augusta,TMRON,WAGT,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,11:49 AM,Local,505,Detroit,TMRON,WMYD,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,11:49 AM,Local,647,Greenwood-Greenville,TMRON,WABG,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,11:49 AM,Local,744,Honolulu,TMRON,KHNL,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,11:49 AM,Local,691,Huntsville-Decatur-Florence,TMRON,WAFF,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,11:49 AM,Local,693,Little Rock,TMRON,KLRT,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,11:49 AM,Local,573,Roanoke-Lynchburg,TMRON,WSLS,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,11:49 AM,Local,661,San Antonio,TMRON,KMOL,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,11:49 AM,Local,819,Seattle-Tacoma,TMRON,KCPQ,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/4/20,11:57 AM,Local,716,Baton Rouge,J!WKD,WBRZ,JEOPARDY!                     ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/5/20,12:27 PM,Local,631,Ottumwa-Kirksville,J!WKD,KTVO,TO BE ANNOUNCED               ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/5/20,12:27 PM,Local,717,Quincy-Hannibal,J!WKD,KHQA,NFL FOOTBALL                  ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,12:27 PM,Local,709,Tyler-Longview-Jacksonville,J!WKD,KLTV,TO BE ANNOUNCED               ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,12:27 PM,Local,709,Tyler-Longview-Jacksonville,J!WKD,KTRE,TO BE ANNOUNCED               ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/3/20,12:49 PM,Local,692,"Beaumont-Port Arthur, TX",TMRON,KBTV,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,12:49 PM,Local,514,Buffalo,TMRON,WNLO,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,12:49 PM,Local,676,Duluth-Superior,TMRON,KDLH,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,12:49 PM,Local,507,Savannah,TMRON,WJCL,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/5/20,12:57 PM,Local,618,Houston,J!WKD,KTRK,OCEAN TREKS WITH JEFF CORWIN  ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,12:57 PM,Local,619,"Springfield, MO",J!WKD,KSPR,JEOPARDY!                     ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,10:27 PM,Local,801,Eugene,J!WKD,KPIC,48 HOURS                      ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,10:27 PM,Local,801,Eugene,J!WKD,KVAL,48 HOURS                      ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,11:02 PM,Local,582,"Lafayette, LA",J!WKD,KATC,JEOPARDY!                     ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/5/20,11:02 PM,Local,675,Peoria-Bloomington,J!WKD,WMBD,JEOPARDY!                     ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,11:39 PM,Local,630,Birmingham,J!WKD,WIAT,MADAM SECRETARY               ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/5/20,11:40 PM,Local,682,Davenport-Rock Island-Moline-Q,J!WKD,KWQC,SMALL TOWN BIG DEAL           ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/5/20,11:57 PM,Local,570,"Florence-Myrtle Beach, SC",J!WKD,WBTW,WBTW NEWS13 AT 11PM           ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,1:00 AM,Local,693,Little Rock,J!WKD,KATV,PAID PROGRAM                  ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/5/20,1:27 PM,Local,673,"Columbus-Tupelo, MS",J!WKD,WTVA,MONSTER ENERGY SUPERCROSS A1 R,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/5/20,1:27 PM,Local,505,Detroit,J!WKD,WDIV,JEOPARDY!                     ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,1:27 PM,Local,533,Hartford-New Haven,J!WKD,WTNH,JEOPARDY!                     ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,1:27 PM,Local,556,Richmond,J!WKD,WRIC,JEOPARDY!                     ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/3/20,1:48 PM,Local,658,Green Bay-Appleton,TMRON,WGBA,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,1:49 PM,Local,640,Memphis,TMRON,WHBQ,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,1:49 PM,Local,511,"Washington, DC",TMRON,WTTG,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,1:50 PM,Local,518,Greensboro-Winston-Salem-High,TMRON,WCWG,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,1:52 AM,Local,752,Colorado Springs-Pueblo,TMRON,KRDO,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,1:53 AM,Local,588,South Bend-Elkhart,TMRON,WBND,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,1:54 AM,Local,756,Billings-Hardin,TMRON,KSVI,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,1:55 AM,Local,506,Boston,TMRON,WCVB,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,1:55 AM,Local,510,Cleveland,TMRON,WEWS,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/4/20,1:57 AM,Local,649,Evansville,J!WKD,WFIE,JEOPARDY!                     ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,1:57 AM,Local,710,Hattiesburg-Laurel,J!WKD,WDAM,JEOPARDY!                     ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/5/20,1:59 PM,Local,501,New York,J!WKD,WABC,JEOPARDY!                     ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,2:08 AM,Local,640,Memphis,J!WKD,WREG,MADAM SECRETARY               ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/3/20,2:23 AM,Local,753,Phoenix,TMRON,KNXV,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,2:25 AM,Local,506,Boston,TMRON,WMUR,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/4/20,2:27 AM,Local,559,Bluefield-Beckley-Oak Hill,J!WKD,WVNS,PAID PROGRAM                  ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,2:27 AM,Local,718,"Jackson, MS",J!WKD,WLBT,JEOPARDY!                     ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,2:29 AM,Local,651,Lubbock,J!WKD,KCBD,JEOPARDY!                     ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,2:40 AM,Local,563,Grand Rapids-Kalamazoo-Battle,J!WKD,WWMT,PAID PROGRAM                  ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/3/20,2:47 PM,Local,570,"Florence-Myrtle Beach, SC",TMRON,WWMB,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,2:48 AM,Local,611,Rochester-Mason City-Austin,TMRON,KXLT,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,2:48 PM,Local,743,Anchorage,TMRON,KTUU,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,2:48 PM,Local,523,Burlington-Plattsburgh,TMRON,WPTZ,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,2:48 PM,Local,623,Dallas-Ft. Worth,TMRON,KTVT,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,2:48 PM,Local,679,Des Moines,TMRON,WOI,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,2:48 PM,Local,724,Fargo,TMRON,WDAY,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,2:48 PM,Local,724,Fargo,TMRON,WDAZ,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,2:48 PM,Local,687,Minot-Bismarck-Dickinson-Glend,TMRON,KBMY,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,2:48 PM,Local,687,Minot-Bismarck-Dickinson-Glend,TMRON,KMCY,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,2:48 PM,Local,555,Syracuse,TMRON,WSTM,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,2:49 AM,Local,661,San Antonio,TMRON,KABB,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,2:49 PM,Local,790,Albuquerque,TMRON,KOAT,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,2:49 PM,Local,800,Bakersfield,TMRON,KBAK,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,2:49 PM,Local,821,Bend,TMRON,KTVZ,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,2:49 PM,Local,746,Biloxi-Gulfport-Pascagoula,TMRON,WLOX,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,2:49 PM,Local,630,Birmingham,TMRON,WVTM,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,2:49 PM,Local,637,Cedar Rapids-Waterloo-Dubuque,TMRON,KWWL,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,2:49 PM,Local,519,Charleston-Huntington,TMRON,WSAZ,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,2:49 PM,Local,868,Chico-Redding,TMRON,KCVU,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,2:49 PM,Local,765,El Paso,TMRON,KVIA,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,2:49 PM,Local,802,Eureka,TMRON,KBVU,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,2:49 PM,Local,513,Flint-Saginaw-Bay City,TMRON,WEYI,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,2:49 PM,Local,670,Ft. Smith,TMRON,KHBS,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,2:49 PM,Local,670,Ft. Smith,TMRON,KHOG,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,2:49 PM,Local,566,Harrisburg-York-Lancaster-Leba,TMRON,WGAL,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,2:49 PM,Local,718,"Jackson, MS",TMRON,WAPT,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,2:49 PM,Local,558,Lima,TMRON,WLIO,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,2:49 PM,Local,722,Lincoln-Hastings-Kearney,TMRON,KLKN,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,2:49 PM,Local,669,Madison,TMRON,WKOW,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,2:49 PM,Local,813,Medford,TMRON,KOBI,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,2:49 PM,Local,813,Medford,TMRON,KOTI,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,2:49 PM,Local,698,Montgomery-Selma,TMRON,WNCF,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,2:49 PM,Local,659,Nashville,TMRON,WSMV,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,2:49 PM,Local,622,New Orleans,TMRON,WDSU,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,2:49 PM,Local,650,Oklahoma City,TMRON,KOCO,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,2:49 PM,Local,652,Omaha,TMRON,WOWT,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,2:49 PM,Local,534,Orlando-Daytona Beach-Melbourn,TMRON,WESH,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,2:49 PM,Local,521,Providence-New Bedford,TMRON,WJAR,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,2:49 PM,Local,825,San Diego,TMRON,KGTV,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,2:49 PM,Local,855,Santa Barbara-Santa Maria-San,TMRON,KSBY,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,2:50 PM,Local,725,Sioux Falls-Mitchell,TMRON,KTTM,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,2:50 PM,Local,725,Sioux Falls-Mitchell,TMRON,KTTW,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,2:50 PM,Local,577,Wilkes Barre-Scranton,TMRON,WBRE,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/5/20,2:57 PM,Local,744,Honolulu,J!WKD,KGMB,JEOPARDY!                     ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,3:06 AM,Local,698,Montgomery-Selma,J!WKD,WAKA,PAID PROGRAM                  ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,3:29 AM,Local,588,South Bend-Elkhart,J!WKD,WSBT,MADAM SECRETARY               ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/3/20,3:47 AM,Local,570,"Florence-Myrtle Beach, SC",TMRON,WWMB,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,3:47 PM,Local,627,Wichita Falls-Lawton,TMRON,KJTL,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,3:48 PM,Local,512,Baltimore,TMRON,WBAL,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,3:48 PM,Local,716,Baton Rouge,TMRON,WAFB,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,3:48 PM,Local,517,Charlotte,TMRON,WSOC,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,3:48 PM,Local,515,Cincinnati,TMRON,WLWT,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,3:48 PM,Local,510,Cleveland,TMRON,WEWS,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,3:48 PM,Local,571,Ft. Myers-Naples,TMRON,WZVN,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,3:48 PM,Local,574,Johnstown-Altoona,TMRON,WATM,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,3:48 PM,Local,529,Louisville,TMRON,WLKY,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,3:48 PM,Local,711,Meridian,TMRON,WGBC,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,3:48 PM,Local,617,Milwaukee,TMRON,WISN,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,3:48 PM,Local,508,Pittsburgh,TMRON,WTAE,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,3:48 PM,Local,611,Rochester-Mason City-Austin,TMRON,KXLT,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,3:48 PM,Local,538,"Rochester, NY",TMRON,WHAM,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,3:48 PM,Local,547,Toledo,TMRON,WNWO,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,3:48 PM,Local,789,Tucson,TMRON,KOLD,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,3:48 PM,Local,625,Waco-Temple-Bryan,TMRON,KWTX,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,3:49 AM,Local,544,Norfolk-Portsmouth-Newport New,TMRON,WGNT,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,3:49 PM,Local,524,Atlanta,TMRON,WSB,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,3:49 PM,Local,559,Bluefield-Beckley-Oak Hill,TMRON,WOAY,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,3:49 PM,Local,506,Boston,TMRON,WMUR,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,3:49 PM,Local,519,"Charleston, SC",TMRON,WCSC,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,3:49 PM,Local,673,"Columbus, GA",TMRON,WLTZ,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,3:49 PM,Local,535,"Columbus, OH",TMRON,WSYX,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,3:49 PM,Local,509,Ft. Wayne,TMRON,WPTA,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,3:49 PM,Local,592,Gainesville,TMRON,WCJB,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,3:49 PM,Local,567,Greenville-Spartanburg-Ashevil,TMRON,WHNS,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,3:49 PM,Local,702,La Crosse-Eau Claire,TMRON,WQOW,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,3:49 PM,Local,702,La Crosse-Eau Claire,TMRON,WXOW,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,3:49 PM,Local,632,Paducah-Cape Girardeau-Harrisb,TMRON,WSIL,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,3:49 PM,Local,804,Palm Springs,TMRON,KESQ,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,3:49 PM,Local,753,Phoenix,TMRON,KNXV,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,3:49 PM,Local,820,"Portland, OR",TMRON,KATU,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,3:49 PM,Local,764,Rapid City,TMRON,KNBN,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,3:49 PM,Local,556,Richmond,TMRON,WWBT,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,3:49 PM,Local,770,Salt Lake City,TMRON,KTVX,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,3:49 PM,Local,624,Sioux City,TMRON,KTIV,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,3:49 PM,Local,539,Tampa-St. Petersburg,TMRON,WMOR,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,3:49 PM,Local,705,Wausau-Rhinelander,TMRON,WAOW,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,3:49 PM,Local,705,Wausau-Rhinelander,TMRON,WYOW,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,3:49 PM,Local,678,Wichita-Hutchinson,TMRON,KAAS,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,3:49 PM,Local,678,Wichita-Hutchinson,TMRON,KOCW,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,3:49 PM,Local,678,Wichita-Hutchinson,TMRON,KSAS,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,3:49 PM,Local,550,Wilmington,TMRON,WWAY,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,3:50 PM,Local,518,Greensboro-Winston-Salem-High,TMRON,WXII,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,3:50 PM,Local,651,Lubbock,TMRON,KJTV,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,3:50 PM,Local,588,South Bend-Elkhart,TMRON,WBND,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,3:54 PM,Local,545,Greenville-New Bern-Washington,TMRON,WCTI,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/4/20,3:56 AM,Local,536,Youngstown,J!WKD,WKBN,PAID PROGRAM                  ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,3:57 AM,Local,673,"Columbus-Tupelo, MS",J!WKD,WTVA,JEOPARDY!                     ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/3/20,4:27 AM,Local,650,Oklahoma City,J!WKD,KFOR,JEOPARDY!                     ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,4:27 AM,Local,508,Pittsburgh,J!WKD,WPXI,JEOPARDY!                     ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/5/20,4:29 PM,Local,602,Chicago,J!WKD,WLS,PAID PROGRAM                  ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/3/20,4:48 AM,Local,525,"Albany, GA",TMRON,WFXL,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,4:48 PM,Local,635,Austin,TMRON,KEYE,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,4:48 PM,Local,531,"Tri-Cities, TN-VA",TMRON,WEMT,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,4:49 PM,Local,546,"Columbia, SC",TMRON,WACH,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,4:49 PM,Local,542,Dayton,TMRON,WKEF,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,4:49 PM,Local,533,Hartford-New Haven,TMRON,WCTX,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,4:49 PM,Local,544,Norfolk-Portsmouth-Newport New,TMRON,WGNT,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,4:49 PM,Local,609,St. Louis,TMRON,KDNL,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,4:49 PM,Local,536,Youngstown,TMRON,WKBN,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,4:50 PM,Local,602,Chicago,TMRON,WCIU,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/4/20,4:57 PM,Local,506,Boston,J!WKD,WBZ,NFL FOOTBALL                  ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/5/20,4:57 PM,Local,691,Huntsville-Decatur-Florence,J!WKD,WAAY,THE WORLD'S FUNNIEST WEATHER  ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,4:58 PM,Local,617,Milwaukee,J!WKD,WDJT,NFL FOOTBALL                  ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,5:26 PM,Local,627,Wichita Falls-Lawton,J!WKD,KAUZ,NFL FOOTBALL                  ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,5:27 PM,Local,662,Abilene-Sweetwater,J!WKD,KTAB,NFL FOOTBALL                  ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,5:27 PM,Local,644,"Alexandria, LA",J!WKD,KALB,NFL FOOTBALL                  ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,5:27 PM,Local,635,Austin,J!WKD,KXAN,NFL FOOTBALL                  ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,5:27 PM,Local,692,"Beaumont-Port Arthur, TX",J!WKD,KBTV,JEOPARDY!                     ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,5:27 PM,Local,648,Champaign & Springfield-Decatu,J!WKD,WAND,NFL FOOTBALL                  ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,5:27 PM,Local,604,"Columbia-Jefferson City, MO",J!WKD,KOMU,NFL FOOTBALL                  ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,5:27 PM,Local,600,Corpus Christi,J!WKD,KRIS,NFL FOOTBALL                  ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,5:27 PM,Local,724,Fargo,J!WKD,KXJB,NFL FOOTBALL                  ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,5:27 PM,Local,821,"Great Bend, KS",J!WKD,KSNC,NFL FOOTBALL                  ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/5/20,5:27 PM,Local,636,Harlingen-Wslco-Brownsville-Mc,J!WKD,KGBT,COLLEGE BASKETBALL            ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/5/20,5:27 PM,Local,603,Joplin-Pittsburg,J!WKD,KODE,JEOPARDY!                     ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,5:27 PM,Local,702,La Crosse-Eau Claire,J!WKD,WEAU,NFL FOOTBALL                  ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,5:27 PM,Local,722,Lincoln-Hastings-Kearney,J!WKD,KGIN,NFL FOOTBALL                  ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,5:27 PM,Local,722,Lincoln-Hastings-Kearney,J!WKD,KOLN,NFL FOOTBALL                  ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,5:27 PM,Local,632,Paducah-Cape Girardeau-Harrisb,J!WKD,WPSD,NFL FOOTBALL                  ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,5:27 PM,Local,656,Panama City,J!WKD,WJHG,NFL FOOTBALL                  ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,5:27 PM,Local,661,San Angelo,J!WKD,KLST,JEOPARDY!                     ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,5:27 PM,Local,678,Wichita-Hutchinson,J!WKD,KSNG,NFL FOOTBALL                  ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,5:27 PM,Local,678,Wichita-Hutchinson,J!WKD,KSNW,NFL FOOTBALL                  ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/3/20,5:48 PM,Local,525,"Albany, GA",TMRON,WFXL,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/4/20,5:57 AM,Local,679,Des Moines,J!WKD,WHO,JEOPARDY!                     ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,5:57 AM,Local,616,Kansas City,J!WKD,KSHB,JEOPARDY!                     ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,5:57 PM,Local,525,"Albany, GA",J!WKD,WSWG,NFL FOOTBALL                  ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,5:57 PM,Local,509,Ft. Wayne,J!WKD,WANE,NFL FOOTBALL                  ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,5:57 PM,Local,592,Gainesville,J!WKD,WGFL,NFL FOOTBALL                  ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,5:57 PM,Local,566,Harrisburg-York-Lancaster-Leba,J!WKD,WHP,NFL FOOTBALL                  ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,5:57 PM,Local,503,Macon,J!WKD,WMAZ,NFL FOOTBALL                  ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/5/20,5:57 PM,Local,534,Orlando-Daytona Beach-Melbourn,J!WKD,WFTV,TO BE ANNOUNCED               ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,5:57 PM,Local,521,Providence-New Bedford,J!WKD,WPRI,NFL FOOTBALL                  ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,5:57 PM,Local,538,"Rochester, NY",J!WKD,WROC,NFL FOOTBALL                  ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,5:57 PM,Local,657,Sherman-Ada,J!WKD,KTEN,NFL FOOTBALL                  ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,5:57 PM,Local,547,Toledo,J!WKD,WTOL,NFL FOOTBALL                  ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,6:25 PM,Local,743,Anchorage,J!WKD,KJUD,JEOPARDY!                     ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,6:25 PM,Local,743,Anchorage,J!WKD,KYUR,JEOPARDY!                     ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,6:25 PM,Local,745,Fairbanks,J!WKD,KATN,JEOPARDY!                     ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,6:27 PM,Local,623,Dallas-Ft. Worth,J!WKD,KTXA,JEOPARDY!                     ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,4675
+1/4/20,6:27 PM,Local,751,Denver,J!WKD,KDVR,NFL FOOTBALL                  ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,6:27 PM,Local,751,Denver,J!WKD,KFCT,NFL FOOTBALL                  ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,6:27 PM,Local,658,Green Bay-Appleton,J!WKD,WLUK,JEOPARDY!                     ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,6:27 PM,Local,647,Greenwood-Greenville,J!WKD,WXVT,NFL FOOTBALL                  ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,6:27 PM,Local,758,Idaho Falls-Pocatello,J!WKD,KPVI,JEOPARDY!                     ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,6:27 PM,Local,686,Mobile-Pensacola,J!WKD,WALA,TO BE ANNOUNCED               ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,6:27 PM,Local,659,Nashville,J!WKD,WZTV,JEOPARDY!                     ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,6:27 PM,Local,622,New Orleans,J!WKD,WVUE,TO BE ANNOUNCED               ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,6:27 PM,Local,652,Omaha,J!WKD,WOWT,NFL FOOTBALL                  ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/5/20,6:27 PM,Local,612,Shreveport-Texarkana,J!WKD,KPXJ,JEOPARDY!                     ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,6:27 PM,Local,624,Sioux City,J!WKD,KMEG,NFL FOOTBALL                  ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,6:27 PM,Local,789,Tucson,J!WKD,KGUN,JEOPARDY!                     ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,6:27 PM,Local,771,Yuma-El Centro,J!WKD,KYMA,JEOPARDY!                     ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,6:57 PM,Local,764,Rapid City,J!WKD,KHSD,JEOPARDY!                     ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,6:57 PM,Local,764,Rapid City,J!WKD,KOTA,JEOPARDY!                     ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,6:57 PM,Local,764,Rapid City,J!WKD,KSGW,JEOPARDY!                     ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,6:57 PM,Local,770,Salt Lake City,J!WKD,KJZZ,JEOPARDY!                     ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,6:57 PM,Local,881,Spokane,J!WKD,KHQ,TO BE ANNOUNCED               ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,6:59 PM,Local,643,Lake Charles,J!WKD,KVHP,TO BE ANNOUNCED               ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/5/20,7:27 PM,Local,512,Baltimore,J!WKD,WNUV,JEOPARDY!                     ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,7:27 PM,Local,821,Bend,J!WKD,KOHD,JEOPARDY!                     ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,7:27 PM,Local,523,Burlington-Plattsburgh,J!WKD,WPTZ,NFL FOOTBALL                  ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,7:27 PM,Local,517,Charlotte,J!WKD,WCNC,NFL FOOTBALL                  ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,7:27 PM,Local,598,Clarksburg-Weston,J!WKD,WBOY,NFL FOOTBALL                  ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,7:27 PM,Local,535,"Columbus, OH",J!WKD,WBNS,NFL FOOTBALL                  ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,7:27 PM,Local,565,Elmira,J!WKD,WETM,NFL FOOTBALL                  ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,7:27 PM,Local,866,Fresno-Visalia,J!WKD,KFSN,JEOPARDY!                     ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,7:27 PM,Local,803,Los Angeles,J!WKD,KABC,TO BE ANNOUNCED               ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,7:27 PM,Local,553,Marquette,J!WKD,WLUC,NFL FOOTBALL                  ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,7:27 PM,Local,813,Medford,J!WKD,KDKF,JEOPARDY!                     ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,7:27 PM,Local,813,Medford,J!WKD,KDRV,JEOPARDY!                     ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,7:27 PM,Local,820,"Portland, OR",J!WKD,KATU,JEOPARDY!                     ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,7:27 PM,Local,811,Reno,J!WKD,KOLO,JEOPARDY!                     ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,7:27 PM,Local,862,Sacramento-Stockton,J!WKD,KXTV,TO BE ANNOUNCED               ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,7:27 PM,Local,807,San Francisco-Oakland-San Jose,J!WKD,KGO,JEOPARDY!                     ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,7:27 PM,Local,855,Santa Barbara-Santa Maria-San,J!WKD,KSBY,JEOPARDY!                     ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,7:27 PM,Local,539,Tampa-St. Petersburg,J!WKD,WTSP,NFL FOOTBALL                  ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,7:27 PM,Local,581,Terre Haute,J!WKD,WTWO,NFL FOOTBALL                  ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,7:27 PM,Local,549,Watertown-Carthage,J!WKD,WWNY,NFL FOOTBALL                  ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,7:27 PM,Local,554,Wheeling-Steubenville,J!WKD,WTOV,NFL FOOTBALL                  ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,7:29 PM,Local,508,Pittsburgh,J!WKD,WPXI,NFL FOOTBALL                  ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,7:55 PM,Local,565,Elmira,J!WKD,WETM,NFL FOOTBALL                  ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,7:56 PM,Local,825,San Diego,J!WKD,KNSD,JEOPARDY!                     ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,7:56 PM,Local,555,Syracuse,J!WKD,WNYS,JEOPARDY!                     ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,7:57 PM,Local,583,Alpena,J!WKD,WTOM,NFL FOOTBALL                  ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,7:57 PM,Local,514,Buffalo,J!WKD,WNLO,PAID PROGRAM                  ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,7:57 PM,Local,519,"Charleston, SC",J!WKD,WCBD,NFL FOOTBALL                  ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,7:57 PM,Local,584,Charlottesville,J!WKD,WVIR,NFL FOOTBALL                  ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,7:57 PM,Local,868,Chico-Redding,J!WKD,KNVN,JEOPARDY!                     ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,7:57 PM,Local,515,Cincinnati,J!WKD,WXIX,JEOPARDY!                     ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,7:57 PM,Local,542,Dayton,J!WKD,WDTN,NFL FOOTBALL                  ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,7:57 PM,Local,802,Eureka,J!WKD,KAEF,JEOPARDY!                     ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,7:57 PM,Local,571,Ft. Myers-Naples,J!WKD,WBBH,NFL FOOTBALL                  ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,7:57 PM,Local,545,Greenville-New Bern-Washington,J!WKD,WITN,NFL FOOTBALL                  ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,7:57 PM,Local,527,Indianapolis,J!WKD,WTHR,NFL FOOTBALL                  ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,7:57 PM,Local,718,Jacksonville,J!WKD,WTLV,NFL FOOTBALL                  ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,7:57 PM,Local,551,Lansing,J!WKD,WILX,NFL FOOTBALL                  ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,7:57 PM,Local,804,Palm Springs,J!WKD,KMIR,JEOPARDY!                     ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,7:57 PM,Local,597,Parkersburg,J!WKD,WTAP,NFL FOOTBALL                  ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,7:57 PM,Local,753,Phoenix,J!WKD,KTVK,JEOPARDY!                     ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,7:57 PM,Local,507,Savannah,J!WKD,WSAV,NFL FOOTBALL                  ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,7:57 PM,Local,819,Seattle-Tacoma,J!WKD,KOMO,JEOPARDY!                     ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,7:57 PM,Local,619,"Springfield, MA",J!WKD,WWLP,NFL FOOTBALL                  ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,7:57 PM,Local,540,Traverse City-Cadillac,J!WKD,WPBN,NFL FOOTBALL                  ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,7:57 PM,Local,531,"Tri-Cities, TN-VA",J!WKD,WCYB,NFL FOOTBALL                  ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,7:57 PM,Local,526,Utica,J!WKD,WKTV,NFL FOOTBALL                  ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,7:57 PM,Local,577,Wilkes Barre-Scranton,J!WKD,WBRE,NFL FOOTBALL                  ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,7:57 PM,Local,550,Wilmington,J!WKD,WECT,NFL FOOTBALL                  ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,8:00 PM,Local,524,Atlanta,J!WKD,WATL,AMERICAN NINJA WARRIOR        ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/3/20,8:49 PM,Local,602,Chicago,TMRON,WMEU,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,8:50 AM,Local,612,Shreveport-Texarkana,TMRON,KPXJ,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,3825
+1/5/20,8:57 PM,Local,810,Yakima-Pasco-Richland-Kennewic,J!WKD,KNDO,LOCAL NEWS PRIMETIME          ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/5/20,8:57 PM,Local,810,Yakima-Pasco-Richland-Kennewic,J!WKD,KNDU,LOCAL NEWS PRIMETIME          ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,9:27 PM,Local,839,Las Vegas,J!WKD,KLAS,TO BE ANNOUNCED               ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/3/20,9:49 AM,Local,757,Boise,TMRON,KIVI,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,9:49 AM,Local,682,Davenport-Rock Island-Moline-Q,TMRON,KLJB,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,9:49 AM,Local,751,Denver,TMRON,KMGH,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,9:49 AM,Local,633,Odessa-Midland,TMRON,KPEJ,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,9:50 AM,Local,756,Billings-Hardin,TMRON,KSVI,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,9:50 AM,Local,527,Indianapolis,TMRON,WTTV,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,9:50 AM,Local,557,Knoxville,TMRON,WVLT,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/3/20,9:50 AM,Local,582,"Lafayette, IN",TMRON,WTTK,TAMRON HALL                   ,Syndication,RRFALL30TMH,TRR_30_TVC_FALL_HERO,30,0
+1/4/20,9:57 PM,Local,790,Albuquerque,J!WKD,KBIM,48 HOURS                      ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,9:57 PM,Local,790,Albuquerque,J!WKD,KREZ,48 HOURS                      ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,9:57 PM,Local,790,Albuquerque,J!WKD,KRQE,48 HOURS                      ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,9:57 PM,Local,757,Boise,J!WKD,KBOI,48 HOURS                      ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,9:57 PM,Local,759,Cheyenne-Scottsbluff,J!WKD,KGWN,48 HOURS                      ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,9:58 PM,Local,759,Cheyenne-Scottsbluff,J!WKD,KSTF,48 HOURS                      ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/4/20,9:58 PM,Local,752,Colorado Springs-Pueblo,J!WKD,KKTV,48 HOURS                      ,Syndication,RRFALL15JPH,TRR_15_TVC_FALL_HERO,15,0
+1/2/20,1:00 AM,Local,613,Minneapolis-St. Paul,ITN,WFTC,Chicago PD,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,0
+1/2/20,1:03 AM,Local,507,Savannah,ITN,WJCL,Nightline,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,6.6
+12/30/19,1:04 AM,Local,618,Houston,ITN,KUBE,Game,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,0
+1/1/20,1:04 AM,Local,507,Savannah,ITN,WJCL,Nightline,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,6.6
+1/2/20,1:05 AM,Local,623,Dallas-Ft. Worth,ITN,KTVT,CBS 11 News,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,0
+1/3/20,1:07 AM,Local,770,Salt Lake City,ITN,KUCW,Live PD Police,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,4.95
+1/3/20,1:07 AM,Local,807,San Francisco-Oak-San Jose,ITN,KOFY,Live PD Police,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,0
+1/3/20,1:09 AM,Local,556,Richmond-Petersburg,ITN,WUPV,Dateline,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,3.3
+1/1/20,1:10 AM,Local,535,"Columbus, OH",ITN,WWHO,Dateline,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,6.6
+1/1/20,1:10 AM,Local,527,Indianapolis,ITN,WISH,Dish Nation,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,6.6
+1/3/20,1:10 AM,Local,511,"Washington, DC (Hagrstwn)",ITN,WDCW,2 Broke Girls,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,26.41
+12/30/19,1:11 AM,Local,517,Charlotte,ITN,WAXN,Live PD Police,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,18.16
+1/1/20,1:11 AM,Local,504,Philadelphia,ITN,WPSG,2 Broke Girls,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,24.76
+1/2/20,1:12 AM,Local,751,Denver,ITN,KCDO,Doctors,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,0
+12/30/19,1:13 AM,Local,866,Fresno-Visalia,ITN,KFRE,FOX26 Ten,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,3.3
+1/2/20,1:13 AM,Local,803,Los Angeles,ITN,KTTV,Fox 11 Ten,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,84.19
+1/1/20,1:13 AM,Local,770,Salt Lake City,ITN,KJZZ,DailyMailTV,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,3.3
+12/30/19,1:15 AM,Local,512,Baltimore,ITN,WMAR,Dateline,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,9.9
+1/3/20,1:15 AM,Local,528,Miami-Ft. Lauderdale,ITN,WBFS,Bobs Burgers,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,0
+1/1/20,1:16 AM,Local,501,New York,ITN,WNYW,Chasing News,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,163.42
+1/2/20,1:18 AM,Local,652,Omaha,ITN,KETV,Newswatch 7 10,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,14.86
+1/1/20,1:18 AM,Local,538,"Rochester, NY",ITN,WUHF,DailyMailTV,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,3.3
+12/30/19,1:18 AM,Local,807,San Francisco-Oak-San Jose,ITN,KOFY,Live PD Police,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,0
+1/1/20,1:18 AM,Local,612,Shreveport,ITN,KSHV,Cops,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,1.65
+12/30/19,1:18 AM,Local,671,Tulsa,ITN,KMYT,Live PD Police,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,1.65
+1/1/20,1:19 AM,Local,635,Austin,ITN,KBVO,DailyMailTV,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,6.6
+1/1/20,1:19 AM,Local,575,Chattanooga,ITN,WDEF,Late Late Show,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,4.95
+12/30/19,1:19 AM,Local,765,El Paso,ITN,KDBC,Extra,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,1.65
+12/30/19,1:19 AM,Local,650,Oklahoma City,ITN,KWTV,Extra,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,29.71
+1/1/20,1:20 AM,Local,517,Charlotte,ITN,WAXN,Live PD Police,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,0
+1/2/20,1:20 AM,Local,673,"Columbus, GA",ITN,WLTZ,Late Night With,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,3.3
+12/30/19,1:20 AM,Local,528,Miami-Ft. Lauderdale,ITN,WBFS,Bobs Burgers,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,14.86
+12/30/19,1:21 AM,Local,658,Green Bay-Appleton,ITN,WACY,Game,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,3.3
+1/1/20,1:21 AM,Local,618,Houston,ITN,KUBE,Game,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,0
+1/1/20,1:22 AM,Local,770,Salt Lake City,ITN,KUCW,Live PD Police,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,4.95
+1/2/20,1:22 AM,Local,511,"Washington, DC (Hagrstwn)",ITN,WDCW,2 Broke Girls,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,29.71
+12/30/19,1:23 AM,Local,770,Salt Lake City,ITN,KUCW,Live PD Police,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,11.55
+1/3/20,1:23 AM,Local,819,Seattle-Tacoma,ITN,KONG,Real,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,13.21
+12/30/19,1:24 AM,Local,751,Denver,ITN,KCDO,Doctors,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,0
+1/3/20,1:24 AM,Local,687,Minot-Bismarck-Dickinson,ITN,KBMY,Dish Nation,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,0
+1/1/20,1:25 AM,Local,669,Madison,ITN,WISC,JustLaughsGag,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,1.65
+1/2/20,1:26 AM,Local,716,Baton Rouge,ITN,WVLA,Today w H and J,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,1.65
+1/2/20,1:27 AM,Local,718,"Jackson, MS",ITN,WLBT,Today w H and J,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,9.9
+12/30/19,1:27 AM,Local,613,Minneapolis-St. Paul,ITN,WFTC,Chicago PD,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,0
+12/30/19,1:27 AM,Local,573,Roanoke-Lynchburg,ITN,WZBJ,Law Order SVU,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,0
+12/30/19,1:27 AM,Local,770,Salt Lake City,ITN,KJZZ,DailyMailTV,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,3.3
+1/2/20,1:28 AM,Local,525,"Albany, GA",ITN,WFXL,Modern Family,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,3.3
+1/3/20,1:28 AM,Local,682,Davenport-R.Island-Moline,ITN,KLJB,Game,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,8.25
+12/30/19,1:28 AM,Local,504,Philadelphia,ITN,WPSG,2 Broke Girls,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,0
+12/30/19,1:29 AM,Local,635,Austin,ITN,KBVO,DailyMailTV,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,6.6
+1/3/20,1:29 AM,Local,612,Shreveport,ITN,KSHV,Cops,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,1.65
+1/1/20,1:30 AM,Local,506,Boston (Manchester),ITN,WFXT,Boston 25 News,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,51.17
+1/1/20,1:30 AM,Local,622,New Orleans,ITN,WGNO,Dish Nation,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,8.25
+12/30/19,1:30 AM,Local,534,Orlando-Daytona Bch-Melbrn,ITN,WOFL,FOX 35 News,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,16.51
+1/2/20,1:33 AM,Local,618,Houston,ITN,KUBE,Game,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,0
+1/3/20,1:33 AM,Local,613,Minneapolis-St. Paul,ITN,WFTC,Chicago PD,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,0
+1/1/20,1:33 AM,Local,652,Omaha,ITN,KETV,Newswatch 7 10,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,14.86
+1/2/20,1:34 AM,Local,602,Chicago,ITN,WCIU,Game,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,0
+12/30/19,1:35 AM,Local,602,Chicago,ITN,WCIU,Game,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,9.9
+1/2/20,1:35 AM,Local,724,Fargo-Valley City,ITN,WDAY,WDAY News,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,8.25
+1/1/20,1:36 AM,Local,751,Denver,ITN,KCDO,Doctors,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,0
+12/30/19,1:36 AM,Local,724,Fargo-Valley City,ITN,WDAY,WDAY News,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,8.25
+1/1/20,1:37 AM,Local,724,Fargo-Valley City,ITN,WDAY,WDAY News,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,8.25
+1/3/20,1:37 AM,Local,724,Fargo-Valley City,ITN,WDAY,WDAY News,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,8.25
+12/30/19,1:37 AM,Local,501,New York,ITN,WWOR,Live PD Police,Syndication,RRFALL30ITNH,TRR_30_TVC_FALL_HERO,30,0
+12/30/19,1:38 AM,Local,521,Providence-New Bedford,ITN,EPRI,How I Met Your,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,1.65
+1/2/20,1:38 AM,Local,556,Richmond-Petersburg,ITN,WUPV,Dateline,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,3.3
+1/2/20,1:38 AM,Local,547,Toledo,ITN,WUPW,Live PD Police,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,9.9
+1/3/20,1:39 AM,Local,514,Buffalo,ITN,WNLO,Cops,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,6.6
+12/30/19,1:39 AM,Local,803,Los Angeles,ITN,KCAL,2 Broke Girls,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,0
+12/30/19,1:39 AM,Local,632,Paducah-C.Gird-Harbg-Mt VN,ITN,KBSI,2 Broke Girls,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,4.95
+1/3/20,1:41 AM,Local,702,La Crosse-Eau Claire,ITN,WLAX,2 Broke Girls,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,1.65
+12/30/19,1:41 AM,Local,560,Raleigh-Durham (Fayetvlle),ITN,WRDC,Bobs Burgers,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,11.55
+12/30/19,1:41 AM,Local,609,St. Louis,ITN,KTVI,Dish Nation,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,46.22
+12/30/19,1:42 AM,Local,524,Atlanta,ITN,WAGA,Fox 5 News 1000,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,173.32
+1/2/20,1:42 AM,Local,702,La Crosse-Eau Claire,ITN,WLAX,2 Broke Girls,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,1.65
+1/2/20,1:42 AM,Local,541,Lexington,ITN,WDKY,Two Half Men,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,11.55
+1/3/20,1:43 AM,Local,718,"Jackson, MS",ITN,WLBT,Today w H and J,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,9.9
+12/30/19,1:43 AM,Local,544,Norfolk-Portsmth-Newpt Nws,ITN,WGNT,Chicago PD,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,18.16
+1/3/20,1:44 AM,Local,507,Savannah,ITN,WTGS,Two Half Men,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,4.95
+1/1/20,1:45 AM,Local,630,Birmingham,ITN,WTTO,Mike & Molly,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,11.55
+1/1/20,1:46 AM,Local,506,Boston (Manchester),ITN,WLVI,Bobs Burgers,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,0
+12/30/19,1:47 AM,Local,506,Boston (Manchester),ITN,WLVI,Bobs Burgers,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,19.81
+1/3/20,1:47 AM,Local,519,Charleston-Huntington,ITN,WOWK,TMZ,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,1.65
+1/1/20,1:47 AM,Local,582,"Lafayette, LA",ITN,KLFY,CBS Overnight,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,6.6
+1/1/20,1:48 AM,Local,526,Utica,ITN,WFXV,25 Words Or Les,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,6.6
+1/1/20,1:48 AM,Local,625,Waco-Temple-Bryan,ITN,KWTX,ET,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,6.6
+1/1/20,1:49 AM,Local,508,Pittsburgh,ITN,WPGH,DailyMailTV,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,36.32
+12/30/19,1:49 AM,Local,862,Sacramento-Stktn-Modesto,ITN,KOVR,Comics,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,16.51
+1/1/20,1:50 AM,Local,602,Chicago,ITN,WCIU,Game,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,26.41
+1/3/20,1:50 AM,Local,751,Denver,ITN,KCDO,Doctors,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,0
+1/3/20,1:50 AM,Local,803,Los Angeles,ITN,KCAL,2 Broke Girls,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,0
+12/30/19,1:51 AM,Local,539,Tampa-St. Pete (Sarasota),ITN,WTTA,ForensicFiles,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,21.46
+12/30/19,1:52 AM,Local,524,Atlanta,ITN,WPCH,Chicago PD,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,14.86
+1/3/20,1:52 AM,Local,528,Miami-Ft. Lauderdale,ITN,WBFS,Bobs Burgers,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,0
+1/1/20,1:53 AM,Local,682,Davenport-R.Island-Moline,ITN,KLJB,Judge Jerry,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,8.25
+1/2/20,1:53 AM,Local,658,Green Bay-Appleton,ITN,WACY,Protection Crt,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,3.3
+12/30/19,1:53 AM,Local,862,Sacramento-Stktn-Modesto,ITN,KQCA,Law Order SVU,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,13.21
+1/1/20,1:53 AM,Local,547,Toledo,ITN,WUPW,Live PD Police,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,9.9
+1/2/20,1:54 AM,Local,528,Miami-Ft. Lauderdale,ITN,WBFS,Bobs Burgers,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,24.76
+1/1/20,1:54 AM,Local,501,New York,ITN,WWOR,Live PD Police,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,85.84
+1/3/20,1:54 AM,Local,770,Salt Lake City,ITN,KJZZ,Comics,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,3.3
+1/1/20,1:54 AM,Local,671,Tulsa,ITN,KMYT,Live PD Police,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,1.65
+12/30/19,1:55 AM,Local,533,Hartford & New Haven,ITN,WCCT,How I Met Your,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,11.55
+1/1/20,1:56 AM,Local,766,Helena,ITN,KHBB,TMZ,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,0
+1/1/20,1:57 AM,Local,691,Huntsville-Decatur (Flor),ITN,WAAY,Comics,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,4.95
+1/1/20,1:57 AM,Local,820,"Portland, OR",ITN,KOIN,KOIN Local 6 11,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,0
+12/30/19,1:58 AM,Local,507,Savannah,ITN,WJCL,Inside Ed,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,4.95
+1/1/20,1:59 AM,Local,757,Boise,ITN,KBOI,Daytime Jeopard,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,1.65
+1/1/20,1:59 AM,Local,515,Cincinnati,ITN,WCPO,Wendy Williams,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,19.81
+12/30/19,1:59 AM,Local,702,La Crosse-Eau Claire,ITN,WLAX,2 Broke Girls,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,1.65
+12/30/19,1:59 AM,Local,686,Mobile-Pensacola (Ft Walt),ITN,WALA,Jeopardy!,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,1.65
+1/2/20,1:59 AM,Local,560,Raleigh-Durham (Fayetvlle),ITN,WRDC,Bobs Burgers,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,11.55
+1/1/20,1:59 AM,Local,825,San Diego,ITN,NFMB,Dateline,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,4.95
+12/30/19,1:59 AM,Local,807,San Francisco-Oak-San Jose,ITN,KOFY,Cops,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,0
+12/30/19,1:59 AM,Local,507,Savannah,ITN,WTGS,Two Half Men,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,4.95
+1/1/20,1:59 AM,Local,539,Tampa-St. Pete (Sarasota),ITN,WTTA,ForensicFiles,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,0
+1/3/20,1:59 AM,Local,547,Toledo,ITN,WUPW,Live PD Police,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,9.9
+12/30/19,10:10 PM,Local,810,Yakima-Pasco-Rchlnd-Knnwck,ITN,KCYU,FOX News First,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,11.55
+12/30/19,10:11 PM,Local,500,Portland-Auburn,ITN,WPXT,WMTW News 8,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,3.3
+1/3/20,10:11 PM,Local,627,Wichita Falls & Lawton,ITN,KAUZ,NewsChannel 6,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,11.55
+1/1/20,10:12 PM,Local,622,New Orleans,ITN,WGNO,News With A,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,23.11
+1/2/20,10:13 PM,Local,669,Madison,ITN,WISC,News 3 Now Ten,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,46.22
+1/2/20,10:13 PM,Local,504,Philadelphia,ITN,WPSG,Eyewitness News,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,26.41
+1/1/20,10:13 PM,Local,508,Pittsburgh,ITN,WPGH,Channel 11 News,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,92.44
+1/1/20,10:14 PM,Local,541,Lexington,ITN,WDKY,Fox 56 10,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,67.68
+1/3/20,10:14 PM,Local,541,Lexington,ITN,WDKY,Fox 56 10,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,67.68
+1/3/20,10:14 PM,Local,622,New Orleans,ITN,WGNO,News With A,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,23.11
+1/2/20,10:14 PM,Local,534,Orlando-Daytona Bch-Melbrn,ITN,WOFL,FOX 35 News,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,103.99
+1/1/20,10:17 PM,Local,544,Norfolk-Portsmth-Newpt Nws,ITN,WGNT,WTKR Special,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,29.71
+12/30/19,10:19 PM,Local,744,Honolulu,ITN,KITV,KITV Island,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,28.06
+1/1/20,10:19 PM,Local,691,Huntsville-Decatur (Flor),ITN,WAAY,WAAY 31 News 10,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,29.71
+1/2/20,10:19 PM,Local,810,Yakima-Pasco-Rchlnd-Knnwck,ITN,KCYU,FOX News First,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,0
+1/1/20,10:20 PM,Local,765,El Paso,ITN,KVIA,ABC 7 News 10,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,41.27
+1/1/20,10:20 PM,Local,810,Yakima-Pasco-Rchlnd-Knnwck,ITN,KCYU,FOX News First,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,11.55
+1/3/20,10:21 PM,Local,609,St. Louis,ITN,KTVI,FOX 2 News,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,0
+12/30/19,10:22 PM,Local,604,Columbia-Jefferson City,ITN,KRCG,KRCG 13 Live,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,19.81
+1/1/20,10:22 PM,Local,604,Columbia-Jefferson City,ITN,KRCG,KRCG 13 Live,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,19.81
+1/2/20,10:22 PM,Local,691,Huntsville-Decatur (Flor),ITN,WAAY,WAAY 31 News 10,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,29.71
+1/2/20,10:22 PM,Local,582,"Lafayette, LA",ITN,KLFY,KLFY News 10 10,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,59.43
+1/1/20,10:23 PM,Local,716,Baton Rouge,ITN,WVLA,NBC Local 33,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,9.9
+12/30/19,10:23 PM,Local,541,Lexington,ITN,WDKY,Fox 56 10,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,67.68
+1/1/20,10:23 PM,Local,627,Wichita Falls & Lawton,ITN,KAUZ,NewsChannel 6,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,11.55
+1/1/20,10:24 PM,Local,527,Indianapolis,ITN,WISH,News 8 at 10PM,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,37.97
+1/2/20,10:25 PM,Local,525,"Albany, GA",ITN,WFXL,Fox 31 News Ten,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,8.25
+1/1/20,10:26 PM,Local,524,Atlanta,ITN,WAGA,Fox 5 News 1000,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,125.45
+1/1/20,10:26 PM,Local,670,Ft. Smith-Fay-Sprngdl-Rgrs,ITN,KHBS,40/29 News 10,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,28.06
+1/1/20,10:26 PM,Local,547,Toledo,ITN,WUPW,WTOL News 11,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,41.27
+1/2/20,10:27 PM,Local,622,New Orleans,ITN,WGNO,News With A,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,23.11
+1/3/20,10:27 PM,Local,504,Philadelphia,ITN,WPSG,Eyewitness News,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,16.51
+12/30/19,10:28 PM,Local,532,Albany-Schenectady-Troy,ITN,WCWN,CBS 6 News 10pm,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,13.21
+1/1/20,10:28 PM,Local,650,Oklahoma City,ITN,KWTV,News 9 at 10 PM,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,207.99
+1/3/20,10:28 PM,Local,508,Pittsburgh,ITN,WPGH,Channel 11 News,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,0
+12/30/19,10:28 PM,Local,538,"Rochester, NY",ITN,WUHF,13WHAM News 10,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,28.06
+1/1/20,10:29 PM,Local,724,Fargo-Valley City,ITN,WDAY,WDAY News at 10,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,41.27
+1/2/20,10:29 PM,Local,724,Fargo-Valley City,ITN,WDAY,WDAY News at 10,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,41.27
+1/3/20,10:29 PM,Local,527,Indianapolis,ITN,WISH,News 8 at 10PM,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,37.97
+1/1/20,10:29 PM,Local,669,Madison,ITN,WISC,News 3 Now Ten,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,46.22
+1/3/20,10:29 PM,Local,544,Norfolk-Portsmth-Newpt Nws,ITN,WGNT,News 3 News 10P,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,29.71
+12/30/19,10:30 PM,Local,724,Fargo-Valley City,ITN,WDAY,WDAY News at 10,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,41.27
+1/3/20,10:30 PM,Local,724,Fargo-Valley City,ITN,WDAY,WDAY News at 10,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,41.27
+1/2/20,10:30 PM,Local,652,Omaha,ITN,KMTV,3 News Now Live,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,36.32
+1/1/20,10:30 PM,Local,862,Sacramento-Stktn-Modesto,ITN,KQCA,KCRA 3 News,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,80.88
+12/30/19,10:31 PM,Local,670,Ft. Smith-Fay-Sprngdl-Rgrs,ITN,KHBS,40/29 News 10,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,28.06
+1/1/20,10:31 PM,Local,566,Harrisburg-Lncstr-Leb-York,ITN,WPMT,Fox 43 News,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,26.41
+1/3/20,10:32 PM,Local,604,Columbia-Jefferson City,ITN,KRCG,KRCG 13 Live,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,19.81
+12/30/19,10:32 PM,Local,765,El Paso,ITN,KVIA,ABC 7 News 10,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,41.27
+1/3/20,10:32 PM,Local,765,El Paso,ITN,KVIA,ABC 7 News 10,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,41.27
+1/3/20,10:32 PM,Local,669,Madison,ITN,WISC,News 3 Now Ten,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,46.22
+12/30/19,10:33 PM,Local,652,Omaha,ITN,KMTV,3 News Now Live,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,36.32
+12/30/19,10:34 PM,Local,716,Baton Rouge,ITN,WVLA,Tonight Show,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,9.9
+12/30/19,10:34 PM,Local,691,Huntsville-Decatur (Flor),ITN,WAAY,WAAY 31 News 10,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,29.71
+1/2/20,10:34 PM,Local,693,Little Rock-Pine Bluff,ITN,KARK,Tonight Show,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,0
+12/30/19,10:34 PM,Local,669,Madison,ITN,WISC,News 3 Now Ten,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,46.22
+12/30/19,10:34 PM,Local,622,New Orleans,ITN,WGNO,News With A,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,23.11
+1/1/20,10:34 PM,Local,652,Omaha,ITN,KMTV,3 News Now Live,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,36.32
+1/3/20,10:34 PM,Local,652,Omaha,ITN,KMTV,3 News Now Live,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,36.32
+12/30/19,10:34 PM,Local,625,Waco-Temple-Bryan,ITN,KWTX,KWTX News Ten,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,57.77
+1/2/20,10:34 PM,Local,627,Wichita Falls & Lawton,ITN,KAUZ,NewsChannel 6,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,11.55
+1/3/20,10:36 PM,Local,810,Yakima-Pasco-Rchlnd-Knnwck,ITN,KCYU,Chicago PD,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,11.55
+1/2/20,10:37 PM,Local,508,Pittsburgh,ITN,WPGH,Channel 11 News,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,87.49
+1/2/20,10:41 PM,Local,803,Los Angeles,ITN,KTTV,Fox 11 Ten,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,94.09
+1/3/20,10:42 PM,Local,501,New York,ITN,WNYW,StreetSoldier,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,0
+12/30/19,10:45 PM,Local,525,"Albany, GA",ITN,WFXL,Fox 31 News Ten,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,8.25
+1/1/20,10:45 PM,Local,803,Los Angeles,ITN,KTTV,Fox 11 Ten,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,320.24
+1/3/20,10:49 PM,Local,547,Toledo,ITN,WUPW,WTOL News 11,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,41.27
+12/30/19,10:50 PM,Local,533,Hartford & New Haven,ITN,WCTX,News 8 10pm,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,47.87
+1/1/20,10:51 PM,Local,525,"Albany, GA",ITN,WFXL,Fox 31 News Ten,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,8.25
+1/1/20,10:53 PM,Local,508,Pittsburgh,ITN,WPGH,Channel 11 News,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,61.08
+1/1/20,10:57 PM,Local,506,Boston (Manchester),ITN,WHDH,7 News at 10PM,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,193.13
+1/3/20,10:57 PM,Local,506,Boston (Manchester),ITN,WHDH,7 News at 10PM,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,90.79
+12/30/19,10:57 PM,Local,541,Lexington,ITN,WDKY,Fox 56 10,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,67.68
+1/1/20,10:58 PM,Local,541,Lexington,ITN,WDKY,Fox 56 10,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,67.68
+1/3/20,10:58 PM,Local,855,SantaBarbra-SanMar-SanLuOb,ITN,KKFX,KKFX Fox 11,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,11.55
+12/30/19,10:59 PM,Local,514,Buffalo,ITN,WNLO,News 4 1030pm,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,97.39
+12/30/19,10:59 PM,Local,566,Harrisburg-Lncstr-Leb-York,ITN,WPMT,Fox 43 News,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,26.41
+1/1/20,11:10 PM,Local,638,St. Joseph,ITN,KNPN,Mom,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,1.65
+1/3/20,11:11 PM,Local,524,Atlanta,ITN,WAGA,Fox 5 News Edge,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,0
+12/30/19,11:11 PM,Local,505,Detroit,ITN,WADL,Bobs Burgers,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,47.87
+1/2/20,11:12 PM,Local,751,Denver,ITN,KCDO,Denver 7 News,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,31.36
+1/1/20,11:12 PM,Local,505,Detroit,ITN,WADL,Bobs Burgers,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,47.87
+12/30/19,11:12 PM,Local,881,Spokane,ITN,KAYU,Live PD Police,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,11.55
+12/30/19,11:13 PM,Local,524,Atlanta,ITN,WAGA,Fox 5 News Edge,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,338.39
+1/3/20,11:13 PM,Local,505,Detroit,ITN,WADL,Bobs Burgers,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,82.54
+1/1/20,11:13 PM,Local,770,Salt Lake City,ITN,KJZZ,Bobs Burgers,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,8.25
+1/2/20,11:14 PM,Local,519,Charleston-Huntington,ITN,WOWK,13 News at 11p,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,14.86
+1/2/20,11:14 PM,Local,505,Detroit,ITN,WADL,Bobs Burgers,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,85.84
+1/1/20,11:16 PM,Local,524,Atlanta,ITN,WAGA,Fox 5 News Edge,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,222.84
+1/3/20,11:16 PM,Local,673,"Columbus, GA",ITN,WLTZ,WLTZ First News,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,6.6
+12/30/19,11:17 PM,Local,577,Wilkes Barre-Scranton,ITN,WBRE,Eyewitness News,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,37.97
+1/2/20,11:18 PM,Local,673,"Columbus, GA",ITN,WLTZ,WLTZ First News,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,6.6
+12/30/19,11:20 PM,Local,866,Fresno-Visalia,ITN,KFRE,TMZ,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,4.95
+1/1/20,11:23 PM,Local,575,Chattanooga,ITN,WDEF,News 12,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,26.41
+1/2/20,11:24 PM,Local,524,Atlanta,ITN,WAGA,Fox 5 News Edge,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,0
+1/3/20,11:24 PM,Local,512,Baltimore,ITN,WMAR,WMAR2 News 11PM,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,8.25
+1/3/20,11:24 PM,Local,519,Charleston-Huntington,ITN,WOWK,13 News at 11p,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,14.86
+1/3/20,11:24 PM,Local,515,Cincinnati,ITN,WCPO,9 On Your Side,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,0
+12/30/19,11:24 PM,Local,527,Indianapolis,ITN,WISH,News 8 at 11PM,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,37.97
+1/2/20,11:24 PM,Local,638,St. Joseph,ITN,KNPN,Mom,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,1.65
+1/3/20,11:24 PM,Local,638,St. Joseph,ITN,KNPN,Mom,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,1.65
+12/30/19,11:25 PM,Local,515,Cincinnati,ITN,WCPO,9 On Your Side,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,100.69
+12/30/19,11:25 PM,Local,518,Greensboro-H.Point-W.Salem,ITN,WCWG,How I Met Your,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,6.6
+1/1/20,11:26 PM,Local,518,Greensboro-H.Point-W.Salem,ITN,WCWG,How I Met Your,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,6.6
+1/2/20,11:26 PM,Local,527,Indianapolis,ITN,WISH,News 8 at 11PM,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,37.97
+1/1/20,11:27 PM,Local,561,"Jacksonville, Brunswick",ITN,WCWJ,News4JAX 11PM,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,23.11
+1/1/20,11:28 PM,Local,542,Dayton,ITN,WKEF,Dayton 24/7 Now,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,23.11
+1/1/20,11:28 PM,Local,881,Spokane,ITN,KAYU,Live PD Police,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,11.55
+1/2/20,11:29 PM,Local,542,Dayton,ITN,WKEF,Dayton 24/7 Now,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,23.11
+1/3/20,11:29 PM,Local,751,Denver,ITN,KCDO,Denver 7 News,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,6.6
+1/3/20,11:29 PM,Local,820,"Portland, OR",ITN,KOIN,KOIN 6 News 11,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,0
+1/1/20,11:31 PM,Local,534,Orlando-Daytona Bch-Melbrn,ITN,WOFL,FOX 35 NewsEdge,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,59.43
+1/1/20,11:33 PM,Local,512,Baltimore,ITN,WMAR,WMAR2 News 11PM,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,0
+12/30/19,11:34 PM,Local,575,Chattanooga,ITN,WDEF,News 12,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,26.41
+1/2/20,11:34 PM,Local,515,Cincinnati,ITN,WCPO,9 On Your Side,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,100.69
+12/30/19,11:34 PM,Local,820,"Portland, OR",ITN,KPDX,Game,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,16.51
+1/1/20,11:34 PM,Local,820,"Portland, OR",ITN,KOIN,KOIN 6 News 11,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,74.28
+1/2/20,11:34 PM,Local,820,"Portland, OR",ITN,KOIN,KOIN 6 News 11,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,77.58
+1/2/20,11:34 PM,Local,820,"Portland, OR",ITN,KPDX,Game,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,0
+1/2/20,11:38 PM,Local,617,Milwaukee,ITN,WVTV,King of Queens,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,6.6
+12/30/19,11:39 PM,Local,698,Montgomery (Selma),ITN,WNCF,Nightline,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,3.3
+1/1/20,11:40 PM,Local,820,"Portland, OR",ITN,KPDX,Game,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,0
+1/1/20,11:43 PM,Local,617,Milwaukee,ITN,WVTV,King of Queens,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,6.6
+1/1/20,11:45 PM,Local,508,Pittsburgh,ITN,WPNT,Bobs Burgers,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,13.21
+1/1/20,11:46 PM,Local,500,Portland-Auburn,ITN,WPXT,Last Man,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,0
+1/2/20,11:47 PM,Local,633,Odessa-Midland,ITN,KPEJ,Funny You,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,1.65
+1/1/20,11:52 PM,Local,505,Detroit,ITN,WADL,Bobs Burgers,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,47.87
+1/2/20,11:53 PM,Local,510,Cleveland,ITN,WUAB,Bobs Burgers,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,13.21
+1/2/20,11:53 PM,Local,505,Detroit,ITN,WADL,Bobs Burgers,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,59.43
+1/3/20,11:54 PM,Local,622,New Orleans,ITN,WGNO,Nightline,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,14.86
+12/30/19,11:59 PM,Local,510,Cleveland,ITN,WUAB,Bobs Burgers,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,21.46
+12/30/19,12:00 AM,Local,640,Memphis,ITN,WATN,Nightline,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,16.51
+1/1/20,12:02 AM,Local,789,Tucson (Sierra Vista),ITN,KWBA,Game,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,0
+1/1/20,12:03 AM,Local,640,Memphis,ITN,WATN,Nightline,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,16.51
+1/3/20,12:03 AM,Local,698,Montgomery (Selma),ITN,WNCF,Nightline,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,3.3
+12/30/19,12:03 AM,Local,881,Spokane,ITN,KAYU,Live PD Police,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,8.25
+1/3/20,12:04 AM,Local,724,Fargo-Valley City,ITN,WDAY,Nightline,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,8.25
+1/2/20,12:04 AM,Local,640,Memphis,ITN,WATN,Nightline,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,16.51
+1/2/20,12:04 AM,Local,622,New Orleans,ITN,WGNO,Nightline,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,14.86
+1/1/20,12:11 AM,Local,819,Seattle-Tacoma,ITN,KONG,Celebrity Page,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,0
+12/30/19,12:12 AM,Local,693,Little Rock-Pine Bluff,ITN,KARZ,Bobs Burgers,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,28.06
+1/2/20,12:13 AM,Local,633,Odessa-Midland,ITN,KPEJ,Two Half Men,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,0
+1/1/20,12:14 AM,Local,800,Bakersfield,ITN,KBFX,Funny You,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,3.3
+12/30/19,12:14 AM,Local,633,Odessa-Midland,ITN,KPEJ,Two Half Men,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,0
+1/2/20,12:14 AM,Local,550,Wilmington,ITN,WILM,Perry Mason,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,0
+12/30/19,12:15 AM,Local,800,Bakersfield,ITN,KBFX,Funny You,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,3.3
+1/3/20,12:15 AM,Local,804,Palm Springs,ITN,KDFX,Mike & Molly,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,3.3
+1/1/20,12:15 AM,Local,625,Waco-Temple-Bryan,ITN,KWKT,How I Met Your,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,0
+1/2/20,12:16 AM,Local,800,Bakersfield,ITN,KBFX,Funny You,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,3.3
+1/1/20,12:17 AM,Local,633,Odessa-Midland,ITN,KPEJ,Two Half Men,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,0
+1/3/20,12:19 AM,Local,676,Duluth-Superior,ITN,KQDS,Mom,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,3.3
+1/1/20,12:19 AM,Local,603,Joplin-Pittsburg,ITN,KODE,Extra,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,3.3
+1/1/20,12:22 AM,Local,693,Little Rock-Pine Bluff,ITN,KARZ,Bobs Burgers,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,28.06
+1/2/20,12:22 AM,Local,508,Pittsburgh,ITN,WPNT,Channel 11 News,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,0
+1/1/20,12:22 AM,Local,881,Spokane,ITN,KSKN,Impractical,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,0
+1/3/20,12:23 AM,Local,548,West Palm Beach-Ft. Pierce,ITN,WTCN,Two Half Men,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,4.95
+12/30/19,12:24 AM,Local,604,Columbia-Jefferson City,ITN,KQFX,Impractical,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,4.95
+1/1/20,12:24 AM,Local,765,El Paso,ITN,KVIA,ET,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,13.21
+12/30/19,12:25 AM,Local,691,Huntsville-Decatur (Flor),ITN,WAAY,WAAY 31 News 10,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,6.6
+1/1/20,12:25 AM,Local,548,West Palm Beach-Ft. Pierce,ITN,WTCN,Two Half Men,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,4.95
+1/1/20,12:26 AM,Local,698,Montgomery (Selma),ITN,WNCF,Dateline,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,1.65
+1/3/20,12:27 AM,Local,691,Huntsville-Decatur (Flor),ITN,WAAY,WAAY 31 News 10,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,6.6
+1/1/20,12:27 AM,Local,550,Wilmington,ITN,WILM,Perry Mason,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,0
+1/3/20,12:28 AM,Local,800,Bakersfield,ITN,KBFX,Funny You,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,3.3
+1/1/20,12:29 AM,Local,691,Huntsville-Decatur (Flor),ITN,WAAY,WAAY 31 News 10,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,6.6
+1/2/20,12:29 AM,Local,693,Little Rock-Pine Bluff,ITN,KARZ,Bobs Burgers,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,28.06
+1/1/20,12:33 AM,Local,670,Ft. Smith-Fay-Sprngdl-Rgrs,ITN,KHBS,Modern Family,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,6.6
+12/30/19,12:34 AM,Local,603,Joplin-Pittsburg,ITN,KODE,Extra,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,3.3
+1/1/20,12:35 AM,Local,602,Chicago,ITN,WCIU,Bobs Burgers,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,128.75
+1/2/20,12:35 AM,Local,691,Huntsville-Decatur (Flor),ITN,WAAY,WAAY 31 News 10,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,6.6
+1/3/20,12:39 AM,Local,507,Savannah,ITN,WJCL,Nightline,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,6.6
+1/1/20,12:41 AM,Local,744,Honolulu,ITN,KITV,Personal Injury,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,4.95
+12/30/19,12:42 AM,Local,659,Nashville,ITN,WNAB,Bobs Burgers,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,9.9
+1/3/20,12:43 AM,Local,693,Little Rock-Pine Bluff,ITN,KARZ,Bobs Burgers,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,21.46
+1/2/20,12:43 AM,Local,588,South Bend-Elkhart,ITN,ESBT,Bobs Burgers,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,3.3
+12/30/19,12:44 AM,Local,602,Chicago,ITN,WCIU,Bobs Burgers,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,31.36
+12/30/19,12:44 AM,Local,613,Minneapolis-St. Paul,ITN,WFTC,The Simpsons,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,0
+1/2/20,12:45 AM,Local,563,Grand Rapids-Kalmzoo-B.Crk,ITN,EWMT,Bobs Burgers,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,3.3
+12/30/19,12:45 AM,Local,658,Green Bay-Appleton,ITN,WACY,Bobs Burgers,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,4.95
+1/3/20,12:45 AM,Local,613,Minneapolis-St. Paul,ITN,WFTC,The Simpsons,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,0
+12/30/19,12:46 AM,Local,698,Montgomery (Selma),ITN,WNCF,Dateline,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,1.65
+1/3/20,12:46 AM,Local,678,Wichita-Hutchinson Plus,ITN,KSAS,Mike & Molly,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,9.9
+1/2/20,12:49 AM,Local,790,Albuquerque-Santa Fe,ITN,KASY,Celebrity Page,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,0
+12/30/19,12:49 AM,Local,535,"Columbus, OH",ITN,WWHO,Dateline,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,6.6
+12/30/19,12:49 AM,Local,563,Grand Rapids-Kalmzoo-B.Crk,ITN,EWMT,Bobs Burgers,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,3.3
+1/1/20,12:49 AM,Local,652,Omaha,ITN,KMTV,ET,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,8.25
+1/1/20,12:50 AM,Local,523,Burlington-Plattsburgh,ITN,WVNY,Nightline,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,3.3
+12/30/19,12:50 AM,Local,623,Dallas-Ft. Worth,ITN,KTVT,CBS 11 News,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,0
+12/30/19,12:50 AM,Local,810,Yakima-Pasco-Rchlnd-Knnwck,ITN,KCYU,Two Half Men,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,4.95
+1/2/20,12:51 AM,Local,523,Burlington-Plattsburgh,ITN,WVNY,Nightline,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,3.3
+1/1/20,12:51 AM,Local,561,"Jacksonville, Brunswick",ITN,WCWJ,Chicago PD,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,14.86
+1/3/20,12:51 AM,Local,753,Phoenix,ITN,KAZT,Cops,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,0
+1/1/20,12:52 AM,Local,588,South Bend-Elkhart,ITN,ESBT,Bobs Burgers,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,3.3
+1/1/20,12:54 AM,Local,613,Minneapolis-St. Paul,ITN,WFTC,The Simpsons,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,34.66
+1/2/20,12:55 AM,Local,602,Chicago,ITN,WCIU,Bobs Burgers,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,0
+12/30/19,12:55 AM,Local,693,Little Rock-Pine Bluff,ITN,KARZ,Bobs Burgers,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,21.46
+1/2/20,12:55 AM,Local,770,Salt Lake City,ITN,KUCW,blackish,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,11.55
+1/1/20,12:56 AM,Local,534,Orlando-Daytona Bch-Melbrn,ITN,WOFL,FOX 35 News,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,24.76
+1/2/20,12:58 AM,Local,506,Boston (Manchester),ITN,WHDH,True Crime,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,59.43
+1/2/20,12:58 AM,Local,508,Pittsburgh,ITN,WPNT,Channel 11 News,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,0
+12/30/19,12:59 AM,Local,630,Birmingham,ITN,WIAT,CBS42 News 10pm,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,6.6
+1/1/20,12:59 AM,Local,623,Dallas-Ft. Worth,ITN,KTVT,CBS 11 News,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,0
+1/2/20,12:59 AM,Local,658,Green Bay-Appleton,ITN,WACY,Bobs Burgers,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,4.95
+1/1/20,12:59 AM,Local,659,Nashville,ITN,WNAB,Bobs Burgers,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,9.9
+1/2/20,12:59 AM,Local,753,Phoenix,ITN,KAZT,Cops,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,0
+12/30/19,2:00 AM,Local,504,Philadelphia,ITN,KYW,Comics,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,34.66
+1/1/20,2:02 AM,Local,524,Atlanta,ITN,WGCL,CBS46 News 11pm,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,42.92
+1/1/20,2:03 AM,Local,542,Dayton,ITN,WKEF,Chicago PD,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,4.95
+12/30/19,2:04 AM,Local,545,Greenvll-Spart-Ashevll-And,ITN,WMYA,TMZ Live,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,1.65
+12/30/19,2:04 AM,Local,521,Providence-New Bedford,ITN,WLNE,Verdict With,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,4.95
+1/1/20,9:07 PM,Local,557,Knoxville,ITN,WKNX,The Simpsons,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,1.65
+12/30/19,9:12 PM,Local,609,St. Louis,ITN,KTVI,FOX 2 News,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,229.45
+12/30/19,9:16 PM,Local,633,Odessa-Midland,ITN,KPEJ,FOX 24 News 9,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,4.95
+1/3/20,9:18 PM,Local,632,Paducah-C.Gird-Harbg-Mt VN,ITN,KBSI,News 9 FOX23,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,26.41
+1/1/20,9:19 PM,Local,632,Paducah-C.Gird-Harbg-Mt VN,ITN,KBSI,News 9 FOX23,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,26.41
+1/2/20,9:20 PM,Local,609,St. Louis,ITN,KTVI,FOX 2 News,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,0
+12/30/19,9:22 PM,Local,602,Chicago,ITN,WFLD,Fox 32 News,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,145.26
+1/2/20,9:23 PM,Local,602,Chicago,ITN,WFLD,Fox 32 News,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,161.77
+1/2/20,9:25 PM,Local,557,Knoxville,ITN,WKNX,The Simpsons,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,1.65
+1/1/20,9:26 PM,Local,686,Mobile-Pensacola (Ft Walt),ITN,WALA,FOX 10 News 9PM,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,135.36
+1/2/20,9:27 PM,Local,803,Los Angeles,ITN,KCAL,KCAL 9 News,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,546.38
+1/2/20,9:27 PM,Local,633,Odessa-Midland,ITN,KPEJ,FOX 24 News 9,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,4.95
+12/30/19,9:28 PM,Local,790,Albuquerque-Santa Fe,ITN,KASY,News 13 KASY,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,9.9
+1/3/20,9:29 PM,Local,602,Chicago,ITN,WFLD,Fox 32 News,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,0
+1/3/20,9:30 PM,Local,790,Albuquerque-Santa Fe,ITN,KASY,News 13 KASY,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,9.9
+12/30/19,9:30 PM,Local,676,Duluth-Superior,ITN,KQDS,Fox 21 Local,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,23.11
+1/1/20,9:35 PM,Local,676,Duluth-Superior,ITN,KQDS,Fox 21 Local,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,23.11
+1/2/20,9:39 PM,Local,506,Boston (Manchester),ITN,WHDH,7 News at 9PM,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,0
+1/1/20,9:41 PM,Local,609,St. Louis,ITN,KTVI,FOX 2 News,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,232.75
+1/3/20,9:47 PM,Local,609,St. Louis,ITN,KTVI,FOX 2 News,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,0
+1/2/20,9:49 PM,Local,819,Seattle-Tacoma,ITN,KONG,KING 5 News,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,39.62
+1/3/20,9:55 PM,Local,506,Boston (Manchester),ITN,WHDH,7 News at 9PM,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,100.69
+1/2/20,9:55 PM,Local,609,St. Louis,ITN,KTVI,FOX 2 News,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,255.86
+1/2/20,9:56 PM,Local,790,Albuquerque-Santa Fe,ITN,KASY,News 13 KASY,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,9.9
+12/30/19,9:56 PM,Local,602,Chicago,ITN,WFLD,Fox 32 News,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,39.62
+1/2/20,9:56 PM,Local,676,Duluth-Superior,ITN,KQDS,Fox 21 Local,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,23.11
+1/1/20,9:57 PM,Local,790,Albuquerque-Santa Fe,ITN,KASY,Special,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,9.9
+1/2/20,9:57 PM,Local,648,Champaign&Sprngfld-Decatur,ITN,WRSP,FOX Springfield,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,16.51
+1/2/20,9:57 PM,Local,602,Chicago,ITN,WFLD,Fox 32 News,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,204.69
+1/3/20,9:58 PM,Local,819,Seattle-Tacoma,ITN,KONG,KING 5 News,Syndication,RRFALL30ITNH,TRR_30_TVC_REVISED_Hero,30,80.88
