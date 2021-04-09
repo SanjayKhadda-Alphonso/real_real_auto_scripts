@@ -37,10 +37,10 @@ file_path_national = file_path_national.replace("\\", "").strip()
 file_path_local = file_path_local.replace("\\", "").strip()
 file_name_national = "cleaned_national_file_" + file_path_national.split("/")[-1].replace(" ", "_")
 file_name_local = "cleaned_local_file_" + file_path_local.split("/")[-1].replace(" ", "_")
-with open(file_path_national) as f:
-    print(f)
-with open(file_path_national) as f:
-	print(f)
+# with open(file_path_national) as f:
+    # print(f)
+# with open(file_path_national) as f:
+	# print(f)
 df_national = pd.read_csv(file_path_national, engine='python', skipfooter=1, delim_whitespace=False, encoding='latin1')
 df_local = pd.read_csv(file_path_local, engine='python', skipfooter=1, delim_whitespace=False, encoding='latin1')
 
@@ -69,7 +69,8 @@ for i in range(len(df_local.Date)):
 	df_local.CreativeName[i] = df_local.CreativeName[i].strip()
 	df_local.RealRealAdType[i] = df_local.RealRealAdType[i].strip()
 	df_local.CreativeID[i] = df_local.CreativeID[i].strip()
-
+	df_local.Spend[i] = str(df_local.Spend[i]).replace(",", "")
+	df_local.Spend[i] = float(df_local.Spend[i])
 
 print("Putting DMA Codes...")
 print("\n\n\n|PUT DMA CODE FOR THESE MANUALLY(Also add the mapping in dma.py)|")
@@ -112,6 +113,8 @@ for i in range(len(df_local.Time)):
 	if 'M' not in df_local.Time[i] and 'm' not in df_local.Time[i]:
 		# print(df_local.Time[i], "iske liye")
 		df_local.Time[i]= datetime.datetime.strptime(df_local.Time[i], '%H:%M:%S').strftime('%I:%M %p')
+local_spend = df_local["Spend"].sum()
+print("SPEND FOR LOCAL = ", local_spend)
 print("Writing csv file")
 df_local.to_csv(file_name_local, index=False)
 print("File created as " + file_name_local)
@@ -145,7 +148,8 @@ for i in range(len(df_national.Date)):
 	df_national.CreativeName[i] = df_national.CreativeName[i].strip()
 	df_national.CreativeLength[i] = str(df_national.CreativeLength[i]).strip()
 	df_national.AirType[i] = df_national.AirType[i].strip()
-	df_national.Spend[i] = str(df_national.Spend[i]).strip()
+	df_national.Spend[i] = str(df_national.Spend[i]).replace(",", "")
+	df_national.Spend[i] = float(df_national.Spend[i])
 	df_national.CoverPct[i] = str(df_national.CoverPct[i]).strip()
 
 
@@ -178,8 +182,12 @@ if remove_LIFA:
 	print("Removing rows of LIFA")
 	df_national = df_national[df_national.Network != "LIFA"]
 
-
+national_spend = df_national["Spend"].sum()
+print("SPEND FOR national = ", national_spend)
 print("Writing csv file...")
 df_national.to_csv(file_name_national, index=False)
 print("File created as ", file_name_national)
 print("------------------------------PROCESSED NATIONAL FILE------------------------------\n\n\n")
+
+
+print("TOTAL SPEND = ", int(national_spend + local_spend))

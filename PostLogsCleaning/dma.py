@@ -227,6 +227,7 @@ dma_name_to_code = {
 "Jacksonville" : 561,
 "Jackson, TN" : 639,
 "Sherman-Ada" : 657,
+"Sherman, TX-Ada, OK":657,
 "Casper-Riverton" : 767,
 "Little Rock" : 693,
 "Boston" : 506,
@@ -239,6 +240,7 @@ dma_name_to_code = {
 "Rochester-Mason City-Austin" : 611,
 "Des Moines" : 679,
 "West Palm Beach-Ft. Pierce-Ver" : 548,
+"West Palm Beach-Ft. Pie": 548,
 "Wichita-Hutchinson" : 678,
 "Birmingham" : 630,
 "Wilkes Barre-Scranton" : 577,
@@ -524,5 +526,5 @@ dma_code_to_code = {
 
 
 "1460" : 537,
-
+"5830": 760,
 }
